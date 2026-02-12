@@ -1,2 +1,2 @@
-# lantitech.ir
+# lantitech
 network tools
